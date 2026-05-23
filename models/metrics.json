@@ -1,0 +1,38 @@
+[
+  {
+    "model": "LogisticRegression",
+    "accuracy": 0.741,
+    "f1": 0.6178,
+    "roc_auc": 0.8427
+  },
+  {
+    "model": "DecisionTree",
+    "accuracy": 0.7239,
+    "f1": 0.6075,
+    "roc_auc": 0.8182
+  },
+  {
+    "model": "KNN",
+    "accuracy": 0.763,
+    "f1": 0.5348,
+    "roc_auc": 0.787
+  },
+  {
+    "model": "RandomForest",
+    "accuracy": 0.7686,
+    "f1": 0.6329,
+    "roc_auc": 0.8412
+  },
+  {
+    "model": "GradientBoosting",
+    "accuracy": 0.7999,
+    "f1": 0.5791,
+    "roc_auc": 0.8416
+  },
+  {
+    "model": "SVM",
+    "accuracy": 0.7424,
+    "f1": 0.6151,
+    "roc_auc": 0.8204
+  }
+]
